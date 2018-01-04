@@ -1,0 +1,3 @@
+[submodule "exception-handling-slides"]
+	path = exception-handling-slides
+	url = github:peadar/exception-handling-slides
