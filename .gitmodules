@@ -3,4 +3,4 @@
 	url = https://github.com/peadar/exception-handling-slides
 [submodule "smartptrs"]
 	path = smartptrs
-	url = github:peadar/smartptrs
+	url = https://github.com/peadar/smartptrs
