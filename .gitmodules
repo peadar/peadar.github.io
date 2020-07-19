@@ -1,6 +1,3 @@
-[submodule "exception-handling-slides"]
-	path = exception-handling-slides
-	url = https://github.com/peadar/exception-handling-slides
 [submodule "smartptrs"]
 	path = smartptrs
 	url = https://github.com/peadar/smartptrs
