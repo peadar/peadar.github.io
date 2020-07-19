@@ -4,4 +4,3 @@
 [submodule "signals"]
 	path = signals
 	url = https://github.com/peadar/pres-signals
-	branch = publish
